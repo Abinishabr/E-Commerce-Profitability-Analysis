@@ -111,9 +111,8 @@ The business is profitable overall, but profitability is uneven across categorie
 E-Commerce-Profitability-Analysis/
 ├── README.md
 ├── E-Commerce_Analysis.xlsx
-└── screenshots/
-    ├── Sales_Dashboard.png
-    └── Profit_Dashboard.png
+├── Sales_Dashboard.png
+└── Profit_Dashboard.png
 ```
 
 ## Skills demonstrated
