@@ -112,8 +112,8 @@ E-Commerce-Profitability-Analysis/
 ├── README.md
 ├── E-Commerce_Analysis.xlsx
 └── screenshots/
-    ├── sales_dashboard.png
-    └── profitability_dashboard.png
+    ├── Sales_Dashboard.png
+    └── Profit_Dashboard.png
 ```
 
 ## Skills demonstrated
