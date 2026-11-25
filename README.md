@@ -35,11 +35,11 @@ The workbook contains **9,994 order-line records**, **5,009 distinct orders**, a
 
 Sales_Dashboard
 
-!-- ![Sales Dashboard](Sales_Dashboard.png) --
+ ![Sales Dashboard](Sales_Dashboard.png) 
 
 Profit_Dashboard
 
-!-- ![Profitability Dashboard](Profit_Dashboard.png) --
+ ![Profitability Dashboard](Profit_Dashboard.png) 
 
 ## Performance snapshot
 
