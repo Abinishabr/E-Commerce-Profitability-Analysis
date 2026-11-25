@@ -33,9 +33,12 @@ The workbook contains **9,994 order-line records**, **5,009 distinct orders**, a
 
 ## Dashboard previews
 
-Add screenshots of the completed dashboards to the `screenshots/` folder, then uncomment these lines:
+Sales_Dashboard
 
 !-- ![Sales Dashboard](Sales_Dashboard.png) --
+
+Profit_Dashboard
+
 !-- ![Profitability Dashboard](Profit_Dashboard.png) --
 
 ## Performance snapshot
